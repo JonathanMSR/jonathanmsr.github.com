@@ -1,0 +1,181 @@
+
+
+ header{
+  background-color: rgb(7, 5, 87);
+  width: 100%;
+   /* padding: 1% ; */
+  text-align: center;
+  /* display: flex; */
+ 
+
+  } 
+
+  div img{
+    margin-top: 80px;
+  }
+
+  .Container{
+    background-color: antiquewhite; 
+    /* height:100vh; */
+    width: 100vw;
+    /* width: 80vw; */
+    /* padding: 2% 10%;  */
+   display: flex; 
+   align-items: center;
+   justify-content: center;
+   font-family: Arial, Helvetica, sans-serif;
+   line-height: 1.4em;
+
+
+    
+
+   }
+
+    .Content  h2{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 40px; 
+     margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    /* Display: inline-block; */
+   
+    
+   } 
+
+.Content{
+     /* max-width:990px;    */
+    width:100%;
+    height: 100%;  
+    text-align: center;
+   
+     padding: 10px 500px; 
+    margin-top: 20;
+    /* margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif; */
+    font-size: 25px;
+    line-height: 1.4em;
+    /* display: flex;
+    flex-wrap: wrap; */
+    /* position: relative; */
+ }
+  /* section{
+    line-height: 3em;
+  } */
+
+  .order{
+
+    display: inline-block;
+    width: 10%;
+    vertical-align: top;
+  }
+    .order i{
+     font-size: 50px;
+     vertical-align: top;
+    
+
+     }
+
+    .order1{
+
+     display: inline-block;
+     width: 80%;
+    }
+
+
+
+
+  .order4{
+    width: 600px;
+    height:100%; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding: 5px;
+    display: inline-block;
+    }  
+ 
+  
+ li img{
+ 
+   width: 50%;
+   height:50%;
+
+ }
+ 
+  .order5{
+  background-color:rgb(245, 248, 238);
+   width: 100%; 
+ 
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+
+   }  
+
+ div ul li{
+    display: inline-block; 
+    width:20%;
+    height: 20%;
+    
+   
+  
+  }
+  .title-item{
+      
+    border-bottom:  #c6426e solid 2px ;
+    padding-bottom: 1em;
+
+  }
+   /* se aplica shorthand property */
+  /* .position{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 4x;
+  } */
+
+  .Salir{
+      width: 10%;
+       /* position: relative;  */
+      left:620px;
+      top: 80px ;
+      display: flex;
+    
+   }
+
+ .Salir a span i {
+    color: #020218 ;
+ }
+
+     @media (min-width:550px) 
+ {
+  
+    li img{
+      width: 50%;
+      /* height:100%; */
+      display: flex;
+      flex-wrap: wrap;
+      top: 300px;
+    } 
+      /* Content{
+        height: 500px;  
+         width: 500px;   
+   
+  
+     }   
+      */
+  
+  }  
+
+ 
+  
+
+
+ 
+
+
+ 
+ 
+
+
