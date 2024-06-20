@@ -57,7 +57,7 @@
        
     //  uso de timmer
         setTimeout(function(){
-          location.href="/";
+          location.href="/Boletines";
         },500);
 
         return false;
